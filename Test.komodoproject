@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="87660dfe-98db-44ac-b123-60f9085ba5aa" kpf_version="5" name="Test.komodoproject">
+<file id="cbe2101f-7e44-4b0a-91bb-72ad6c1b72d7" idref="87660dfe-98db-44ac-b123-60f9085ba5aa" name="intermine_test.pl" url="intermine_test.pl">
+</file>
+<file id="d0c0c401-939b-40f8-96ce-bd160818cea3" idref="87660dfe-98db-44ac-b123-60f9085ba5aa" name="lwp_test.pl" url="lwp_test.pl">
+</file>
+</project>
