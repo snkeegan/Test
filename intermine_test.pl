@@ -24,7 +24,7 @@ use warnings;
 ######################################################################
 
 # The following import statement sets YeastMine as your default
-use Webservice::InterMine::Simple; # 'http://yeastmine.yeastgenome.org/yeastmine/service';
+use Webservice::InterMine::Simple ; # 'http://yeastmine.yeastgenome.org/yeastmine/service';
 
 my $service = get_service('http://yeastmine.yeastgenome.org/yeastmine/service');
 my $query = $service->new_query;
